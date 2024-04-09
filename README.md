@@ -1,3 +1,8 @@
+## files to check background_gradient.jsx, page.js, cn.ts in the src folder 
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
